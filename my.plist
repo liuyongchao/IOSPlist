@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://www.naxxm.com/FogMonitoringAPP/ios.development.ipa</string>
+     <string>http://www.naxxm.com/shopMgr/ios.development.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -38,7 +38,7 @@
    <dict>
     <key>bundle-identifier</key>
     <!-- BundleID，就是新建app时的包名 -->
-    <string>com.naxxm.app01</string>
+    <string>com.computech.crmappForDev</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
     <string>1.0.2</string>
